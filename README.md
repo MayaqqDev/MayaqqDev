@@ -21,7 +21,7 @@ I'm a developer with 2 years of experience specializing in Minecraft modding. Pr
 - Html
 - Css
 - JavaScript
-- Typescript
+- TypeScript
 
 ---
 
