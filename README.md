@@ -56,3 +56,8 @@ I'm a developer with 2 years of experience specializing in Minecraft modding. Pr
 I have a cool discord community you can hangout in, chat with me or others and just have fun or talk about my projects!
 
 [![Discord Server](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@2/assets/cozy/social/discord-singular_64h.png)](https://discord.gg/w7PpGax9Bq)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MayaqqDev/count.svg" />
+</p>
