@@ -1,6 +1,8 @@
 # Hi there 👋
 ## I'm [Mayaqq](https://mayaqq.dev)!
 
+![Bisect Partnership](https://images-ext-1.discordapp.net/external/8Y72T1cI2w3G7ZLCieVgqIJw4NLl9nmb9f1FfmtRjEg/https/www.bisecthosting.com/partners/custom-banners/3af862e4-2c3a-4ae5-9caf-cc9f80d19620.webp?width=1357&height=225)
+
 I'm a developer with 2 years of experience specializing in Minecraft modding. Proficient in Fabric and experienced in modding Minecraft versions 1.8.9 and up. Passionate about coding and producing high quality, open-source projects for the community.
 
 ---
