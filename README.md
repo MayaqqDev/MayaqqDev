@@ -2,8 +2,9 @@
 ## I'm [Mayaqq](https://mayaqq.dev)!
 [![Promo Code](https://mayaqq.dev/media/server-host.png)](https://server.mayaqq.dev)
 
-I mod, I game, I silly 
-*removed all the professional jargon from this README in 2024*
+I Mod, I game, I silly
+<br>Modder and an Occasional Shitposter
+<br>*removed all the professional jargon from this README in 2024*
 
 I am a mainly Minecraft modder who makes open-source, community focused Minecraft Mods and other projects which I love! I have about 5 years of experience in java and Minecraft modding, though I am proficient in a few more (see below).
 I also manage an awesome community! You can join by clicking the button at the bottom of this page.
